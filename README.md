@@ -27,7 +27,7 @@
 
 <p align="justify">O gráfico abaixo mostra o deslocamento da extremidade livre da estrutura (nó 2), ao longo do tempo:
 
-<div align="left"><img src="Gráfico_cod.png" width="400px", height="400px"></div>
+<div align="left"><img src="Gráfico_cod.png" width="350px", height="300px"></div>
 
 <p align="justify">Observa-se uma resposta oscilatória esperada de um sistema massa-mola, com máximos iniciais decorrentes do impacto. Quando comparado à malha com apenas um elemento, observa-se maior resolução e captação de detalhes dinâmicos, já que a discretização espacial mais refinada permite maior precisão nas deformações internas.</p>
 
